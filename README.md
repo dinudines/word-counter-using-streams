@@ -10,7 +10,7 @@ This project will run on **NodeJs** using **MongoDB** as database. I had tried t
 
 ## Features
 
-- Basic Authentication (Register/Login with hashed password)
+- Get the top 10 words from an URL and find Parts of speech, Synonyms for the same
 
 ## Software Requirements
 
