@@ -24,7 +24,7 @@ This project will run on **NodeJs** using **MongoDB** as database. I had tried t
 1.  Clone the project from github. Change "myproject" to your project name.
 
 ```bash
-git clone https://github.com/maitraysuthar/rest-api-nodejs-mongodb.git ./myproject
+git clone https://github.com/dinudines/word-counter-using-streams.git ./myproject
 ```
 
 ### Using manual download ZIP
@@ -38,16 +38,6 @@ git clone https://github.com/maitraysuthar/rest-api-nodejs-mongodb.git ./myproje
 cd myproject
 npm install
 ```
-
-### Setting up environments
-
-1.  You will find a file named `.env.example` on root directory of project.
-2.  Create a new file by copying and pasting the file and then renaming it to just `.env`
-    ```bash
-    cp .env.example .env
-    ```
-3.  The file `.env` is already ignored, so you never commit your credentials.
-4.  Change the values of the file to your environment. Helpful comments added to `.env.example` file to understand the constants.
 
 ## Project structure
 
